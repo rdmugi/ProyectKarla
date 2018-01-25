@@ -249,3 +249,6 @@ C:\Users\theva\Desktop\Evaluacion jardin de niños2\Evaluacion jardin de niños\
 C:\Users\theva\Desktop\Evaluacion jardin de niños2\Evaluacion jardin de niños\obj\x86\Debug\Evaluacion_jardin_de_niños.Properties.Resources.resources
 C:\Users\theva\Desktop\Evaluacion jardin de niños2\Evaluacion jardin de niños\obj\x86\Debug\Evaluacion_jardin_de_niños.Registro_del_alumno.resources
 C:\Users\theva\Desktop\Evaluacion jardin de niños2\Evaluacion jardin de niños\obj\x86\Debug\Evaluacion jardin de niños.csproj.GenerateResource.Cache
+C:\Users\RDMUGI\Documents\GitHub\ProyectKarla\Evaluacion jardin de niños casi terminado\Evaluacion jardin de niños\bin\Debug\Evaluacion jardin de niños.exe.config
+C:\Users\RDMUGI\Documents\GitHub\ProyectKarla\Evaluacion jardin de niños casi terminado\Evaluacion jardin de niños\obj\x86\Debug\Evaluacion jardin de niños.exe
+C:\Users\RDMUGI\Documents\GitHub\ProyectKarla\Evaluacion jardin de niños casi terminado\Evaluacion jardin de niños\obj\x86\Debug\Evaluacion jardin de niños.pdb

@@ -59,6 +59,7 @@
             this.txtnacio = new System.Windows.Forms.TextBox();
             this.txtnombtut = new System.Windows.Forms.TextBox();
             this.txtdomtut = new System.Windows.Forms.TextBox();
+            this.label16 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // curp
@@ -427,12 +428,22 @@
             this.txtdomtut.Size = new System.Drawing.Size(316, 26);
             this.txtdomtut.TabIndex = 26;
             // 
+            // label16
+            // 
+            this.label16.AutoSize = true;
+            this.label16.Location = new System.Drawing.Point(637, 551);
+            this.label16.Name = "label16";
+            this.label16.Size = new System.Drawing.Size(62, 13);
+            this.label16.TabIndex = 27;
+            this.label16.Text = "KHE PEDO";
+            // 
             // Registro_del_alumno
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(41)))), ((int)(((byte)(128)))), ((int)(((byte)(185)))));
             this.ClientSize = new System.Drawing.Size(801, 692);
+            this.Controls.Add(this.label16);
             this.Controls.Add(this.txtdomtut);
             this.Controls.Add(this.txtnombtut);
             this.Controls.Add(this.txtnacio);
@@ -509,6 +520,7 @@
         private System.Windows.Forms.TextBox txtnacio;
         private System.Windows.Forms.TextBox txtnombtut;
         private System.Windows.Forms.TextBox txtdomtut;
+        private System.Windows.Forms.Label label16;
 
     }
 }
